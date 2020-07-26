@@ -1,0 +1,12 @@
+{
+  "name": "RojoFastValuesApi",
+  "tree": {
+    "$className": "DataModel",
+    "ServerScriptService": {
+      "$className": "ServerScriptService",
+      "Server": {
+        "$path": "src/__s_src"
+      }
+    }
+  }
+}
